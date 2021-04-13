@@ -82,7 +82,7 @@ Now that we have all the hardware connected to the Ground SBC it's time to put *
 7. Start Balena Etcher.
 8. Select the `.img` file we downloaded and extracted earlier for the image file.
 9. Select the SD card as the target \(Balena Etcher should only show the SD cards, but be careful, double-check that the indicated size matches the SD card\).
-10. Hit _write_ and wat for the process to complete, depending on your SD card adapter this can take minutes to an hour.
+10. Hit _write_ and wait for the process to complete, depending on your SD card adapter this can take minutes to an hour.
 11. When Balena Etcher finishes it will automatically dismount the SD card making it safe to unplug it from your computer.
 12. Put the SD card in your Ground SBC.
 13. Pro tip: Start the second SD card for the Air unit before continuing to the next step, Air and Ground use the same image. That way it will be done when we arrive at the Air unit steps.
